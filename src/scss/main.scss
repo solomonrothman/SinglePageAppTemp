@@ -1,0 +1,10 @@
+/* main.scss */
+$darkish: #4A4A4A;
+
+body{
+  margin: 0px;
+  background-color: $darkish;
+}
+
+@import "override-variables";
+@import "bootstrap-sass"
